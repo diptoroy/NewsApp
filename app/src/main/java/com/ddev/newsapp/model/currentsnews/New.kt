@@ -1,4 +1,4 @@
-package com.ddev.newsapp.model
+package com.ddev.newsapp.model.currentsnews
 
 data class New(
     val author: String,
